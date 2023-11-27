@@ -1,3 +1,7 @@
+![Header Image](https://images.hdqwalls.com/wallpapers/naruto-kyuubi-mode-a2.jpg)
+
+
+
 # Hello, I'm Ganadhish
 
 ## 👨‍💻 About Me
@@ -42,8 +46,4 @@ Exploring NextJS and diving deeper into it.
 ## 🤝 Open to Collaboration
 I'm open to exciting collaborations and opportunities. If you have a project or idea, feel free to reach out!
 
-## 📊 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
