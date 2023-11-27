@@ -1,6 +1,4 @@
-![Header Image](https://images.hdqwalls.com/wallpapers/naruto-kyuubi-mode-a2.jpg)
-
-
+![Header Image]()
 
 # Hello, I'm Ganadhish
 
