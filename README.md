@@ -15,27 +15,12 @@ Constantly exploring new technologies to enhance my skills and improve my craft.
 ## 💼 Experience
 - **Intern | Cognizant**
    Jan - 2022
-  - Acquired knowledge of web design principles.
-  - Gained practical experience with relevant software and technology.
-  - Made a final project presentation at the end of the internship to
-    communicate findings, share learnings, and offer suggestions for
-    improving the program.
-  - Demonstrated ability to take initiative and work independently on assigned projects.
-  - Assisted others in solving problems using learnings and software tools.
-  - Got familiar with the CI/CD tools.
 
 - **Programmer Analyst | Cognizant**
    July - 2022
-  - Developed and maintained user-facing websites using HTML, CSS,
-    JavaScript, and React JS.
-  - Integrated third-party APIs into existing applications for improved functionality.
-  - Collaborated with developers to create user-friendly web applications.
-  - Created UI components with reusable codes for a better user experience.
-  - Optimized the performance of web pages to ensure fast loading times.
-    This included reducing image sizes, minimizing HTTP requests, and optimizing code for efficiency.
   
 ## 🌱 Currently Learning
-Exploring NextJS and diving deeper into it.
+Exploring Backend and NextJS diving deeper into it.
 
 ## 📫 Let's Connect
 - GitHub: [GitHub](https://github.com/Ganadhish7)
