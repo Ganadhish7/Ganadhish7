@@ -6,7 +6,7 @@ Constantly exploring new technologies to enhance my skills and improve my craft.
 
 ## 🚀 Skills
 - **Markup Languages:** HTML, CSS
-- **Language:** JavaScript
+- **Language:** JavaScript, TypeScript
 - **Frontend Library:** React
 - **Build Tools:** Babel, Parcel, PostCSS
 - **Version Control:** Git, GitHub
@@ -23,7 +23,7 @@ Constantly exploring new technologies to enhance my skills and improve my craft.
 Exploring Backend and NextJS diving deeper into it.
 
 ## 📫 Let's Connect
-- GitHub: [GitHub](https://github.com/Ganadhish7)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/ganadhish-mardikar)
 - Twitter/X: [Twitter](https://twitter.com/ganadhish_m)
 - Instagram: [Insta](https://www.instagram.com/ganadhish.mardikar/)
 - Pinterest: [Pinterest](https://in.pinterest.com/ganadhishmardikar7160/)
