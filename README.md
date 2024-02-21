@@ -1,8 +1,9 @@
 # Hello, I'm Ganadhish
 
 ## 👨‍💻 About Me
-I'm a frontend developer with a keen eye for design and a love for creating seamless user experiences. 
-Constantly exploring new technologies to enhance my skills and improve my craft.
+MBA candidate specializing in Blockchain Management, with a strong background in JavaScript development. 
+Enthusiastic about emerging technologies like Web3, DeFi, and NFTs. 
+Proven ability to adapt and learn, seeking opportunities to contribute to innovative projects.
 
 ## 🚀 Skills
 - **Markup Languages:** HTML, CSS
@@ -12,6 +13,10 @@ Constantly exploring new technologies to enhance my skills and improve my craft.
 - **Version Control:** Git, GitHub
 - **Design Tools:** Figma
 
+## Blockchain Development
+- **Programming Language:** Solidity
+- Smart Contracts, NFTs(ERC721), ERC20
+
 ## 💼 Experience
 - **Intern | Cognizant**
    Jan - 2022
@@ -20,7 +25,7 @@ Constantly exploring new technologies to enhance my skills and improve my craft.
    July - 2022
   
 ## 🌱 Currently Learning
-Exploring Backend and NextJS diving deeper into it.
+Exploring Web3 and Blockchain ecosystem diving deeper into it.
 
 ## 📫 Let's Connect
 - LinkedIn: [LinkedIn](www.linkedin.com/in/ganadhish-mardikar)
