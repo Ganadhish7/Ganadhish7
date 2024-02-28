@@ -8,6 +8,7 @@ Proven ability to adapt and learn, seeking opportunities to contribute to innova
 ## 🚀 Skills
 - **Markup Languages:** HTML, CSS
 - **Language:** JavaScript, TypeScript
+- **JS Runtime Environment:** Node.js
 - **Frontend Library:** React
 - **Build Tools:** Babel, Parcel, PostCSS
 - **Version Control:** Git, GitHub
@@ -15,7 +16,7 @@ Proven ability to adapt and learn, seeking opportunities to contribute to innova
 
 ## Blockchain Development
 - **Programming Language:** Solidity
-- Smart Contracts, NFTs(ERC721), ERC20
+- Smart Contracts, NFTs(ERC721), ERC20, Cryptography
 
 ## 💼 Experience
 - **Intern | Cognizant**
