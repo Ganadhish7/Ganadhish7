@@ -1,15 +1,15 @@
 # Hello, I'm Ganadhish
 
 ## 👨‍💻 About Me
-MBA candidate specializing in Blockchain Management, with a strong background in JavaScript development. 
+A Frontend Developer with a strong background in JavaScript and React development. 
 Enthusiastic about emerging technologies like Web3, DeFi, and NFTs. 
-Proven ability to adapt and learn, seeking opportunities to contribute to innovative projects.
+Proven ability to adapt and learn, seeking opportunities to contribute to the innovative organization.
 
 ## 🚀 Skills
 - **Markup Languages:** HTML, CSS
 - **Language:** JavaScript, TypeScript
 - **JS Runtime Environment:** Node.js
-- **Frontend Library:** React
+- **Frontend Library:** React.js, Next.js
 - **Build Tools:** Babel, Parcel, PostCSS
 - **Version Control:** Git, GitHub
 - **Design Tools:** Figma
