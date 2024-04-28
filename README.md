@@ -16,6 +16,7 @@ Proven ability to adapt and learn, seeking opportunities to contribute to the in
 
 ## Blockchain Development
 - **Programming Language:** Solidity
+- **Smart Contract Frameworks:** Foundry, Hardhat
 - Smart Contracts, NFTs(ERC721), ERC20, Cryptography
 
 ## 💼 Experience
