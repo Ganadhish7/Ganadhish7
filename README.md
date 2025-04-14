@@ -1,7 +1,7 @@
 # Hello, I'm Ganadhish
 
 ## 👨‍💻 About Me
-A Frontend Developer with a strong background in JavaScript and React development. 
+A Blockchain Developer with a strong foundation in software engineering, I specialize in developing and deploying smart contracts, building decentralized applications, and implementing blockchain solutions.
 Enthusiastic about emerging technologies like Web3, DeFi, and NFTs. 
 Proven ability to adapt and learn, seeking opportunities to contribute to the innovative organization.
 
@@ -17,7 +17,7 @@ Proven ability to adapt and learn, seeking opportunities to contribute to the in
 ## Blockchain Development
 - **Programming Language:** Solidity
 - **Smart Contract Frameworks:** Foundry, Hardhat
-- Smart Contracts, NFTs(ERC721), ERC20, Cryptography
+- Smart Contracts, NFTs(ERC721), ERC20, Cryptography, DeFi, Decentralized Exchanges
 
 ## 💼 Experience
 - **Intern | Cognizant**
@@ -25,15 +25,17 @@ Proven ability to adapt and learn, seeking opportunities to contribute to the in
 
 - **Programmer Analyst | Cognizant**
    July - 2022
-  
+
+- **Blockchain Engineer | Reveation Labs**
+   June - 2024
+   Present
+
 ## 🌱 Currently Learning
-Exploring Web3 and Blockchain ecosystem diving deeper into it.
+Exploring Web3 and the Blockchain ecosystem, diving deeper into it.
 
 ## 📫 Let's Connect
 - LinkedIn: [LinkedIn](www.linkedin.com/in/ganadhish-mardikar)
-- Twitter/X: [Twitter](https://twitter.com/ganadhish_m)
-- Instagram: [Insta](https://www.instagram.com/ganadhish.mardikar/)
-- Pinterest: [Pinterest](https://in.pinterest.com/ganadhishmardikar7160/)
+- Twitter/X: [Twitter](https://twitter.com/ganadhish_)
 
 ## 🤝 Open to Collaboration
 I'm open to exciting collaborations and opportunities. If you have a project or idea, feel free to reach out!
